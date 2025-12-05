@@ -8,9 +8,11 @@
 2. 배포
     1. 목적에 따라 다양한 배포판이 존재
     
-    ![image.png](attachment:124fe5ea-c4ac-49ac-9636-ae663680dc3e:image.png)
+    <img width="1788" height="694" alt="image" src="https://github.com/user-attachments/assets/4b68dff3-90f3-407b-a63a-08905c0eed11" />
+
     
-    ![image.png](attachment:4951fa5f-ba2e-4b87-95c5-e2e2da7f916d:image.png)
+    <img width="984" height="550" alt="image" src="https://github.com/user-attachments/assets/c1bb4f50-2245-4708-9374-06bbaa588353" />
+
     
 3. 오픈소스 - 라이센스
     1. GNU - 완전한 유닉스 호환
@@ -18,7 +20,8 @@
     3. OSS(오픈소스 소프트웨어) - 자유와 무료의 용어 혼돈
     4. OSI(오픈소스 라이선스) - 사용방법, 조건 계약
     
-    ![image.png](attachment:0814e73d-3911-4583-b683-765e0a734b00:image.png)
+    <img width="2002" height="716" alt="image" src="https://github.com/user-attachments/assets/6627c726-a0d7-4f05-b10e-65aa680e2908" />
+
     
 4. 디렉토리
     
